@@ -1,5 +1,11 @@
 # @wagmi/chains
 
+## 0.3.0
+
+### Minor Changes
+
+- 49072af: Added HarmonyOne Shard 1 Chain
+
 ## 0.2.8
 
 ### Patch Changes
